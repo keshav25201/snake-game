@@ -1,0 +1,14 @@
+.row{
+  display: flex;
+  flex-direction: row;
+}
+.board{
+  box-shadow: -13px 11px 23px -2px rgba(0,0,0,0.86);
+-webkit-box-shadow: -13px 11px 23px -2px rgba(0,0,0,0.86);
+-moz-box-shadow: -13px 11px 23px -2px rgba(0,0,0,0.86);
+  /* margin-left: 400px;
+  margin-top: 150px; */
+  display: inline-flex;
+  flex-direction: column;
+  margin: 20px;
+}

@@ -1,0 +1,18 @@
+.cell{
+  /* border: 1px solid white; */
+  height:25px;
+  width:25px;
+  background-color: black;
+}
+.acell{
+  /* border: 1px solid white; */
+  height:25px;
+  width:25px;
+  background-color:rgb(137, 240, 19) ;
+}
+.bcell{
+  /* border: 1px solid white; */
+  height:25px;
+  width:25px;
+  background-color:rgb(228, 33, 80) ;
+}

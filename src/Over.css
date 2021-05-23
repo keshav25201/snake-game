@@ -1,0 +1,28 @@
+.blink {
+  animation: blink 3s infinite;
+}
+
+.blink {
+  animation: blink 1s steps(1, end) infinite;
+  color: rgb(21, 65, 70)
+
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+p{
+  margin: 10px;
+  font-size: 30px;
+  font-family:monospace;
+  font-weight: 900;
+  color:rgb(21, 65, 70)
+}
